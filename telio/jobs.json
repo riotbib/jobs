@@ -110,5 +110,21 @@
     "category": "Permanent Employee",
     "department": "Field and 1st",
     "subcompany": "Telio Nederland B.V."
+  },
+  {
+    "id": 1835212,
+    "name": "Werkstudent Rechtsabteilung/ Legal Department (m/w/d)",
+    "employment_type": "Working Student",
+    "seniority": "Entry level",
+    "keywords": "Jura,working student,Rechtswissenschaften,Vertragsrecht,Compliance,Spaß,Datenschutz,DGSVO,Recherchetätigkeiten,Dokumentenmanagement,Juristische Analysen,Detailorientierung,International,English,IT-Recht,Wirtschaftsrecht,Vergaberecht,Gesellschaftsrecht",
+    "description": "",
+    "office": "Hamburg",
+    "offices": [
+      "Hamburg"
+    ],
+    "schedule": "Part-time",
+    "category": "Working Student",
+    "department": "Legal",
+    "subcompany": "Telio BidCo Germany GmbH"
   }
 ]
