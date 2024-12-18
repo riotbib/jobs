@@ -174,5 +174,21 @@
     "category": "Permanent Employee",
     "department": "Field and 1st",
     "subcompany": "Telio Nederland B.V."
+  },
+  {
+    "id": 1866447,
+    "name": "Technicien de Tests en Electronique H/F",
+    "employment_type": "Permanent employee",
+    "seniority": "Experienced",
+    "keywords": "",
+    "description": "<strong>Le technicien de tests en électronique H/F</strong> met en place les scénarios et moyens de tests, analyse et restitue les résultats sur les éléments techniques et fonctionnels à tester. Ses activités principales sont:<br><ul><li>Mise en place de scénarios et moyens de tests (ex. : bancs de tests)</li><li>Réalisation de tests et d'analyses pour identifier les écarts de performance des produits : renseigner les supports de suivi d'intervention et rédige les procès-verbaux (essais, contrôles…) et mis à jour des reporting de NC et de KPI (indicateurs de représentations).</li><li>Débogage de 1er niveau</li><li>Rédaction du rapport des écarts et dysfonctionnements constatés au cours des tests réalisés</li><li>Analyse des écarts et causalités identifiées</li><li>Diagnostiquer les dysfonctionnements, orienter les produits défectueux vers les services concernés, analyser les défaillances</li><li>Fait remonter les points bloqués</li><li>Contrôler le fonctionnement et veille au respect des normes des équipements électroniques</li><li>Organisation des tests systématiques ou aléatoires, en sortie de chaîne de production</li><li>Contrôle final de la production d'un point de vue produit et documentaire</li></ul><strong>Connaissances professionnelles spécifiques:</strong><br><ul><li>Établit et réaliser des programmes / procédures de test à partir du cahier des charges et des dossiers techniques</li><li>Sélectionne le matériel de contrôle ou d'essais et vérifier sa conformité</li><li>Renseignez les supports de suivi d'intervention et rédige les procès-verbaux (essais, contrôles…)</li><li>Contrôler le fonctionnement et veille au respect des normes des équipements électroniques</li><li>Diagnostiquer les dysfonctionnements, orienter les produits défectueux vers les services concernés</li><li>Assure la remise en condition et le suivi du bon fonctionnement du matériel ou du système en défaut</li><li>Fait preuve de flexibilité en aidant à la production en cas de surcharge de travail</li><li>Maîtrise des logiciels de Conception de Fabrication Assistée par Ordinateur (CFAO)</li><li>Respecter les normes de qualité</li></ul>Ce poste est accessible avec un bac +2 en électrotechnique ou électronique.<strong>Ce que nous offrons :</strong><br>- Un salaire et des avantages compétitifs.<br>- L'opportunité de travailler dans un environnement dynamique et en constante évolution.<br>- Possibilités de développement professionnel et de croissance.<br>- défis professionnels, tâches stimulantes et diversifiées<br>- environnement multiculturel<br>- atmosphère étendue, boissons chaudes et fruits à disposition<br><br>",
+    "office": "Villard-Bonnot",
+    "offices": [
+      "Villard-Bonnot"
+    ],
+    "schedule": "Full-time",
+    "category": "Permanent Employee",
+    "department": "Production",
+    "subcompany": "KEAS"
   }
 ]
