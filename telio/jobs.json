@@ -1,21 +1,5 @@
 [
   {
-    "id": 1756743,
-    "name": "Ausbildung Kaufmann für Büromanagement (m/w/d)",
-    "employment_type": "Trainee",
-    "seniority": "Entry level",
-    "keywords": "Telio,Office,Büro,Organisation,Ausbildung,Office-Management",
-    "description": "",
-    "office": "Hamburg",
-    "offices": [
-      "Hamburg"
-    ],
-    "schedule": "Full-time",
-    "category": "Apprenticeship",
-    "department": "HR",
-    "subcompany": "Telio BidCo Germany GmbH"
-  },
-  {
     "id": 2026687,
     "name": "CAO TECHNICIAN H/F",
     "employment_type": "Permanent employee",
@@ -46,22 +30,6 @@
     "category": "Permanent Employee",
     "department": "Production",
     "subcompany": "KEAS"
-  },
-  {
-    "id": 1623883,
-    "name": "IT System Engineer Digitalization (m/f/d)",
-    "employment_type": "Permanent employee",
-    "seniority": "Experienced",
-    "keywords": "",
-    "description": "<ul><li>Setting up and maintaining new installations for our customers</li><li>Design and Administration of the Costumer new digital solutions</li><li>Testing of UI/UE environment for customers</li><li>Administration and Monitoring of API Connectivity</li><li>Administration and monitoring of datacenter and client system</li><li>Administration of MDM system</li><li>Support for issues in the environment</li><li>Correct administration of incidents in ticketing system</li><li>Autonomous and fast learner for complex infrastructure  </li><li>Participating in the standby</li></ul><ul><li>MCSA, better MCSE certificated</li><li>Linux certification would be an advantage</li><li>More than 5 years of experience as Windows system engineer</li><li>More than 3 years of experience in an international team and as system engineer</li><li>Extensive experience in managing mobile devices, migrating to hybrid cloud environments, and managing API connectivity.</li><li>Experience with Grafana</li><li>Experience with Monitoring Systems</li><li>Good knowledge of Linux</li><li>Good interpersonal, written, and oral communication skills in German and English</li><li>Technical documentation skills</li></ul><ul><li>Modern, centrally located office: Just a 5-minute walk from Bahrenfeld station - easy access guaranteed!</li><li>Open corporate culture: Immerse yourself in an international working environment where ideas and diversity are encouraged.</li><li>Collegial working atmosphere: Enjoy a working atmosphere characterized by collaboration and a hands-on mentality</li><li>Hybrid working model: Flexibility - combine on-site and home office work.</li><li>30 days holiday: More time for relaxation and leisure. Additional days off on 24 December, 31 December and half a day on your birthday.</li><li>Attractive remuneration package: We reward your performance appropriately.</li><li>Sodexo vouchers: For carefree catering while you work.</li><li>HVV season ticket or underground car park subsidy: Support for your convenient journey.</li><li>JobRad: Take advantage of the opportunity to lease a JobRad after your probationary period.</li><li>Company pension scheme: With a generous 25% employer contribution of up to €75.</li></ul>",
-    "office": "Hamburg",
-    "offices": [
-      "Hamburg"
-    ],
-    "schedule": "Full-time",
-    "category": "Permanent Employee",
-    "department": "IT",
-    "subcompany": "Telio BidCo Germany GmbH"
   },
   {
     "id": 1943580,
