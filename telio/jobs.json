@@ -32,6 +32,22 @@
     "subcompany": "BVfon Telekommunikációs Kft."
   },
   {
+    "id": 2082661,
+    "name": "IT Security Engineer (m/f/d)",
+    "employment_type": "Permanent employee",
+    "seniority": "Experienced",
+    "keywords": "Technical Onnovation,Collaboration,Security Clearance,Troubleshooting,Active Directory,Network Security,IT Service Management,network enginneering",
+    "description": "<ul><li>Develop, implement, and monitor IT security concepts, policies, and procedures at technical level</li><li>Perform risk assessments and vulnerability analyses</li><li>Implement and manage security solutions such as firewalls, IDS/IPS, SIEM systems, and endpoint protection platforms.</li><li>Steering of our external IT security service provider.</li><li>Monitor and analyze security-related events (Security Incident Handling).</li><li>Supporting internal IT teams at the patch management</li><li>Support audits, penetration tests, and compliance initiatives (e.g., ISO 27001, BSI Standards, GDPR).</li><li>Collaborate closely with internal IT teams and external partners to enhance overall security infrastructure.</li><li>International Team Collaboration: Collaborate with an international IT team, contributing to cross-border projects and ensuring cohesive network management and support across global operations.<br><br><br></li></ul><ul><li><strong>Education:</strong> Degree in Computer Science, Cybersecurity, Information Security, or a related field.</li><li><strong>Expertise:</strong><ul><li>Strong knowledge of network security, cryptography, operating systems (Windows, Linux), and cloud security (AWS, Azure, GCP).</li><li>Hands-on experience with key security technologies and tools (e.g., Fortinet, Palo Alto, Google Chronicles).</li><li>Familiarity with common standards and frameworks (e.g., ISO 27001, NIST, CIS Controls).</li><li>Ideally, relevant certifications such as CISSP, CISM, CEH, or CompTIA Security+.</li></ul></li><li><strong>Skills:</strong><ul><li>Your communication and technical documentation skills are excellent.</li><li>You are proficient in German and English, both spoken and written.</li><li>Technical documentation skills</li><li>Ability to travel internationally (10%)</li></ul></li></ul><ul><li>Modern, centrally located office: Just a 5-minute walk from Bahrenfeld station - easy access guaranteed!</li><li>Open corporate culture: Immerse yourself in an international working environment where ideas and diversity are encouraged.</li><li>Collegial working atmosphere: Enjoy a working atmosphere characterized by collaboration and a hands-on mentality</li><li>Hybrid working model: Flexibility - combine on-site and home office work.</li><li>30 days holiday: More time for relaxation and leisure. Additional days off on 24 December, 31 December and half a day on your birthday.</li><li>Attractive remuneration package: We reward your performance appropriately.</li><li>Sodexo vouchers: For carefree catering while you work.</li><li>HVV season ticket or underground car park subsidy: Support for your convenient journey.</li><li>JobRad: Take advantage of the opportunity to lease a JobRad after your probationary period.</li><li>Company pension scheme: With a generous 25% employer contribution of up to €75.</li></ul>",
+    "office": "Hamburg",
+    "offices": [
+      "Hamburg"
+    ],
+    "schedule": "Full-time",
+    "category": "Permanent Employee",
+    "department": "IT",
+    "subcompany": "Telio BidCo Germany GmbH"
+  },
+  {
     "id": 1688746,
     "name": "Medior Tester",
     "employment_type": "Permanent employee",
