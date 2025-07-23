@@ -1,5 +1,21 @@
 [
   {
+    "id": 2256951,
+    "name": "Accountant/Buchhalter (m/w/d)",
+    "employment_type": "Permanent employee",
+    "seniority": "Experienced",
+    "keywords": "Buchhaltung,Finance,ISFR,HGB,Accounting",
+    "description": "",
+    "office": "Hamburg",
+    "offices": [
+      "Hamburg"
+    ],
+    "schedule": "Full-time",
+    "category": "Permanent Employee",
+    "department": "Finance",
+    "subcompany": "Telio Management GmbH"
+  },
+  {
     "id": 2026687,
     "name": "CAO TECHNICIAN H/F",
     "employment_type": "Permanent employee",
