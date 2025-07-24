@@ -16,22 +16,6 @@
     "subcompany": "Telio Management GmbH"
   },
   {
-    "id": 2026687,
-    "name": "CAO TECHNICIAN H/F",
-    "employment_type": "Permanent employee",
-    "seniority": "Experienced",
-    "keywords": "CAO,hardware,firmware,electronique",
-    "description": "<ul><li>Analyser les données reçues en début d’affaire</li><li>Réaliser la CAO (dessin, placement, routage) des cartes électroniques</li><li>Appliquer les règles de conception spécifiques au domaine d’application</li><li>Réaliser les autocontrôles des travaux réalisés</li><li>Générer les données de sortie des cartes pour la production</li><li>Créer, actualiser et maintenir à jour les bibliothèques de références ou des banques de données </li><li>Saisir des BOM sur l’outil interne</li><li>Être impliqué dans la conception du schéma pour les choix de composants (obsolescence, disponibilité, compatibilité) et le respect des contraintes du projet (placement, routage, mécanique, encombrement, dissipation thermique…)</li><li>Assurer l’interface technique avec les clients, les sous-traitants et l’équipe de production</li><li>Gérer la pré-industrialisation des cartes avec les sous-traitants</li></ul><ul><li>Compétences sur les logiciels du type Altium et OrCAD Cadence </li><li>Connaissances de normes de développement électronique</li><li>Connaissance des process de fabrication de carte électronique</li><li>Placement routage de cartes avec signaux numériques, analogiques et RF</li><li>Avoir une bonne vision générale du produit pour prendre en compte les différentes contraintes</li><li>Maîtriser les normes qualité, les méthodes de résolution de problèmes </li><li>Anglais technique</li></ul> <br>Débutant : bac +2/3 en électronique<br>Senior : bac +2/3 en électronique avec 5 ans d’expérience- Un salaire et des avantages compétitifs.<br>- L'opportunité de travailler dans un environnement dynamique et en constante évolution.<br>- Possibilités de développement professionnel et de croissance.<br>- Défis professionnels, tâches stimulantes et diversifiées <br>- Environnement multiculturel <br>- Horaires de travail flexibles et jours de télétravail <br>- Atmosphère étendue, boissons chaudes et fruits à disposition<br><br>",
-    "office": "Villard-Bonnot",
-    "offices": [
-      "Villard-Bonnot"
-    ],
-    "schedule": "Full-time",
-    "category": "Permanent Employee",
-    "department": "Research & Development",
-    "subcompany": "KEAS"
-  },
-  {
     "id": 2186045,
     "name": "Product Manager (m/f/d)",
     "employment_type": "Permanent employee",
