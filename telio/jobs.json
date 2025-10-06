@@ -143,21 +143,5 @@
     "category": "Permanent Employee",
     "department": "IT",
     "subcompany": "TELIO BidCo France"
-  },
-  {
-    "id": 2248924,
-    "name": "Team Lead/Teamleitung Service Management Deutschland",
-    "employment_type": "Permanent employee",
-    "seniority": "Experienced",
-    "keywords": "",
-    "description": "",
-    "office": "Hamburg",
-    "offices": [
-      "Hamburg"
-    ],
-    "schedule": "Full-time",
-    "category": "Permanent Employee",
-    "department": "Field and 1st",
-    "subcompany": "Telio Communications GmbH"
   }
 ]
