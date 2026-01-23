@@ -16,6 +16,22 @@
     "subcompany": "Telio Management GmbH"
   },
   {
+    "id": 2503388,
+    "name": "Field Service Technician (NE4) (m/w/d)",
+    "employment_type": "Permanent employee",
+    "seniority": "Experienced",
+    "keywords": "Installation,Reperaturen,Wartung,Service,Serviceeinsätze,Außendienst,Störungsbehebung",
+    "description": "",
+    "office": "Hamburg",
+    "offices": [
+      "Hamburg"
+    ],
+    "schedule": "Full-time",
+    "category": "Permanent Employee",
+    "department": "Field and 1st",
+    "subcompany": "Telio Communications GmbH"
+  },
+  {
     "id": 2452732,
     "name": "Junior Sales/ Country Manager- Croatia",
     "employment_type": "Permanent employee",
