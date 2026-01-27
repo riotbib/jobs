@@ -110,5 +110,21 @@
     "category": "Permanent Employee",
     "department": "IT",
     "subcompany": "Telio Management GmbH"
+  },
+  {
+    "id": 2507265,
+    "name": "Werkstudent im Bereich Konzernrechnungswesen und Konsolidierung / Working Student Group Accounting & Consolidation (m/w/d)",
+    "employment_type": "Intern / Student",
+    "seniority": "Entry level",
+    "keywords": "Konzernrechnungswesen,Konsolidierung,Konzernabschluss,Group Accounting,IFRS,HGB,Intercompany,Finance",
+    "description": "",
+    "office": "Hamburg",
+    "offices": [
+      "Hamburg"
+    ],
+    "schedule": "Part-time",
+    "category": "Intern",
+    "department": "Finance",
+    "subcompany": "Telio Management GmbH"
   }
 ]
