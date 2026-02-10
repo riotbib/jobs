@@ -113,6 +113,23 @@
     "subcompany": "BVfon Telekommunikációs Kft."
   },
   {
+    "id": 2524512,
+    "name": "Senior Network Engineer",
+    "employment_type": "Permanent employee",
+    "seniority": "Experienced",
+    "keywords": "Network IT ,Firewall ",
+    "description": "- Network Installation and Support: Install, configure, and support network environments using technologies such as Extreme Networks, Cisco, and Fortinet, ensuring optimal performance, security, and reliability.<br>- Firewall Management: Install, configure, and provide ongoing support for firewalls, including Fortigate and Cisco, ensuring the protection of network infrastructure from threats and unauthorized access.<br>- Design and Administration: Design, implement, and administer customer network environments, tailoring solutions to meet specific client needs and ensuring high availability, performance, and resilience.<br>- Second-Level IT Support: Act as 2nd Level IT Support for local field services, providing expert assistance, troubleshooting complex network issues, and maintaining seamless operations.<br>- Network Monitoring and Administration: Monitor and administer local network environments, proactively identifying potential issues, optimizing performance, and ensuring secure network operations.<br>- Incident Management: Efficiently manage, document, and resolve incidents using the Jira ticketing system, ensuring accurate tracking, timely resolution, and communication of network-related issues.<br>- Network Optimization and Upgrades: Continuously assess network performance and implement upgrades or optimization strategies, including firmware updates, hardware replacements, and software patches.<br>- Documentation and Reporting: Maintain comprehensive documentation of network configurations, changes, and<br>procedures, and generate regular reports on network performance, incidents, and improvements.<br>- Disaster Recovery Planning: Develop and maintain disaster recovery plans for network infrastructure, ensuring that backup and recovery procedures are tested and effective in restoring services after a failure.<br>- Network Audit and Compliance Checks: Conduct regular network audits to ensure compliance with internal and external regulations, identifying areas for improvement and implementing necessary changes.<br>- International Team Collaboration: Collaborate with an international IT team, contributing to cross-border projects and ensuring cohesive network management and support across global operations.<br>- Standby Participation: Participate in standby duties- Certifications for Network devices like CISCO-CCNA, Fortinet or Extreme Certified Associate<br>- More than 5 years of experience as network engineer<br>- More than 3 years of experience in an international team as network engineer<br>- Experiences in administration of phone systems. (Not required but advantageous)<br>- Good knowledge central managed network systems and environment<br>- Technical documentation skills<br>- Fluent in French and proficient English skills, both spoken and written.<br>- Ability to travel internationally (10% - 20%)",
+    "office": "Paris,Home Office (FR)",
+    "offices": [
+      "Paris",
+      "Home Office (FR)"
+    ],
+    "schedule": "Full-time",
+    "category": "",
+    "department": "IT",
+    "subcompany": "TELIO BidCo France"
+  },
+  {
     "id": 2507265,
     "name": "Werkstudent im Bereich Konzernrechnungswesen und Konsolidierung / Working Student Group Accounting & Consolidation (m/w/d)",
     "employment_type": "Intern / Student",
